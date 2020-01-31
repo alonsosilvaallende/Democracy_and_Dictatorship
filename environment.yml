@@ -1,0 +1,9 @@
+name: dd
+channels:
+  - defaults
+dependencies:
+  - lifelines
+  - notebook
+  - jupyter
+prefix: /Users/alonsosilva/anaconda/envs/dd
+
