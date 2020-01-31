@@ -3,12 +3,24 @@ This notebook's purpose is to introduce basic concepts of Survival Analysis. It'
 
 ## How to run this notebook
 
+You can run it directly in a binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alonsosilvaallende/Democracy_and_Dictatorship/master).
+
+If you want to run it in your computer:
+
 ```console
 pip install lifelines
+pip install jupyter notebook
 ```
 
 or
 
 ```console
 conda install -c conda-forge lifelines
+conda install jupyter notebook
+```
+
+and then
+
+```console
+jupyter notebook Democracy_and_Dictatorship.ipynb
 ```
