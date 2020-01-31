@@ -1,5 +1,5 @@
 # Survival Analysis on the Democracy and Dictatorship dataset
-This notebook's purpose is to introduce basic concepts of Survival Analysis. It's based on [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon) video presentation [Lifelines: Survival Analysis in Python](https://www.youtube.com/watch?v=XQfxndJH4UA).
+This notebook's purpose is to introduce basic concepts of Survival Analysis. It's based on [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon)'s video presentation [Lifelines: Survival Analysis in Python](https://www.youtube.com/watch?v=XQfxndJH4UA).
 
 ## How to run this notebook
 
