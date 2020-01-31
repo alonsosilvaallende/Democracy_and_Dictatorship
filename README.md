@@ -1,9 +1,9 @@
 # Survival Analysis on the Democracy and Dictatorship dataset
-This notebook's purpose is to introduce basic concepts of Survival Analysis. It's based on the video [Lifelines: Survival Analysis in Python](https://www.youtube.com/watch?v=XQfxndJH4UA).
+This notebook's purpose is to introduce basic concepts of Survival Analysis. It's based on [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon) video presentation [Lifelines: Survival Analysis in Python](https://www.youtube.com/watch?v=XQfxndJH4UA).
 
 ## How to run this notebook
 
-You can run it directly in a binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alonsosilvaallende/Democracy_and_Dictatorship/master).
+You can run it directly in a binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alonsosilvaallende/Democracy_and_Dictatorship/master).
 
 If you want to run it in your computer:
 
